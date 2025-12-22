@@ -6,7 +6,7 @@
   },
   "credentials": [
     {
-      "username": "user123",
+      "username": "123456",
       "password": "pass123",
       "expire_date": "2026-06-30",
       "device_limit": 1
